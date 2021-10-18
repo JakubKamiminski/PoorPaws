@@ -1,5 +1,6 @@
 # PoorPaws
 WHAT IT IS:
+
 This application was made for my school project, it is a prototype software for fictional company called Poor Paws, it's a company that wants to sell animals it rescued through
 this application. Admin users can browse through available nimals, add new animals to the databsae, edit old ones, and delete animals. Normal users can only browse through available
 animals
