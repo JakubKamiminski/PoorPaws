@@ -14,3 +14,15 @@ that isn't last just use edit feature the change the data of that animal to the 
 When loading up app for the first time "database file created" textbox will appear and after you close it the app will show up. After that happens close the app, go to the "db" folder
 copy the database inside of it. Go to the assigmentloginform folder, then to the bin folder, then the debug folder, and inside of it replace the databse file with the database file 
 you copied from the db folder.
+
+LOGIN DETAILS:
+
+admin user:
+
+username:trala
+password: 4vive
+
+normal user:
+
+username: gaga
+password: 1234
